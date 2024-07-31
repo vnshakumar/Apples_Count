@@ -1,0 +1,17 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+button img{
+    max-width: 40px;
+    align-items: center;
+}
+.increased {
+    color: green;
+}
+.decreased {
+    color: red;
+}
